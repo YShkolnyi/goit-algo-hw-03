@@ -46,5 +46,3 @@ def normalize_phone(phone_number):
          sanitized_numbers.append(''.join(number))
          count += 1
      return sanitized_numbers
-
-# qwerty
